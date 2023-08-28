@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Ryan Tanaka's First CS193 Homework
+
+### Favorite things about CS193!
+
+- Great teachers
+- Great classroom enviornment
+- Great outside resources
+- Wonderful introduction class intro Github and other useful tools for programming
+
+
+
+## Useful Github and coding info below: 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,6 +25,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+
+
 
 - Bulleted
 - List
