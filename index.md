@@ -1,4 +1,4 @@
-# Ryan Tanaka's First CS193 Homework
+# Ryan Tanaka's First CS193 Homework 
 
 ### Favorite things about CS193!
 
