@@ -1,6 +1,4 @@
-# Ryan Tanaka's First CS193 Homework 
-
-### Favorite things about CS193!
+# Favorite things about CS193!
 
 - Great teachers
 - Great classroom enviornment
